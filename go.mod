@@ -1,1 +1,1 @@
-module widgetone
+module github.com/spookfish/widgetone
